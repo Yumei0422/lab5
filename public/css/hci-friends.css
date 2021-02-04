@@ -1,6 +1,7 @@
 /* applies to anything of class "example-class-selector" */
-.example-class-selector {
+.friend {
 	margin-top: 2em;
+	max-width: 200px;
 }
 
 /* applies to any <p> descendants of an element of class "example-class-selector" */
